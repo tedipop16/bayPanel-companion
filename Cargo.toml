@@ -1,0 +1,10 @@
+[package]
+name = "telemetry-host"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "telemetry-host"
+path = "src/main.rs"
